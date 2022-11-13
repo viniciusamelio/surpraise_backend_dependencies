@@ -1,6 +1,7 @@
 name: surpraise_backend_dependencies
 description: A project that exports packages needed on surpraise backend project
 version: 1.0.0
+publish_to: none
 # homepage: https://www.example.com
 
 environment:
