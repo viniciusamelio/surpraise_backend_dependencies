@@ -16,5 +16,5 @@ dev_dependencies:
 dependencies:
   equatable: ^2.0.5
   ez_either: ^1.0.0
-  mongo_dart: ^0.8.0
+  mongo_dart: ^0.9.1
   string_validator: ^0.3.0
